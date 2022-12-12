@@ -36,7 +36,7 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 ### Files used 📁
 
-This is the file that i usede in this project and it's in a .zip file 📁.
+This is the file that i usede in this project and it's in a .rar file 📁.
 also this is the links 😉.
 
 - chicago.csv = https://ride.divvybikes.com/system-data
@@ -47,5 +47,5 @@ also this is the links 😉.
 
 ### Credits
  
-- Git documentation is very usefull 😜
-https://git-scm.com/doc
+Git documentation is very usefull 😜
+- https://git-scm.com/doc
