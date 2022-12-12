@@ -37,7 +37,7 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 ### Files used 📁
 
 This is the file that i usede in this project and it's in a .rar file 📁.
-also this is the links 😉.
+- also this is the links 😉.
 
 - chicago.csv = https://ride.divvybikes.com/system-data
 
