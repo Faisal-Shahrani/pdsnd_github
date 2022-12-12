@@ -21,6 +21,7 @@ def get_filters():
         print("\n1. chicago. 2. New York. 3. Washington")
         print("\n**Warning** : The input should be Full name of the city (e.g. chicago) ")
         print("\nAnd feel free to write with upper case or lower ")
+        print("\nThis is for the git project so ignore it sir ..")
 
         city = input().lower()
 
@@ -56,6 +57,7 @@ def get_filters():
         if day not in DAY_LIST:
             print("\nWrongr answer, make sure of your input that it's acceptable")
             print("\nRestarting ....")
+            print("\nGet some coffee ^_* ")
 
     print(f"\nYou chosen {day.title()} as your day.")
     print(f"\nYou have chosen to view data for city : {city.upper()}, month/s as {month.upper()} and day/s: {day.upper()}.")
